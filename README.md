@@ -1,4 +1,6 @@
-Olà! Eu sou o Antonio Emilio 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=804c80&amp;height=120&amp;section=header" style="max-width: 100%;">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=804c80&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO,+My+name+is+Antonio+Emilio;I'm+20+years+old;I'm+from+Brazil;Graduating+in+Information+Systems+at;Universidade+Federal+de+Uberlândia;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
@@ -9,8 +11,8 @@ Olà! Eu sou o Antonio Emilio 👋
 
 ##
 <div>  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Anton0910&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Antonio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anton0910&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Anton0910&show_icons=true&count_private=true&hide_border=true&title_color=804c80&icon_color=804c80&text_color=c9d1d9&bg_color=0d1117" alt="Antonio github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anton0910&layout=compact&hide_border=true&title_color=804c80&text_color=804c80&bg_color=0d1117" />
 </div>
 
 ##
