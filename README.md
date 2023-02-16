@@ -4,7 +4,7 @@
 
 
 
-- 🔭 Hoje eu trabalho com Back-end
+- 🔭 Hoje eu trabalho com Desenvolvimento web
 - 🌱 Estudando back-end e testes de software
 - 📫 Contate-me no email: antonio-emilio_6@hotmail.com
 - 🎓 Estudando Sistemas de Informação na UFU - Universidade Federal de Uberlândia.
